@@ -1,1 +1,1 @@
-alert('second entry');
+console.log('second entry');
