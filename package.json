@@ -9,6 +9,7 @@
   "author": "alex <chenzeyongjsj@163.com>",
   "license": "ISC",
   "devDependencies": {
-    "webpack": "^3.10.0"
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.11.1"
   }
 }
